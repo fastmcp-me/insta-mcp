@@ -1,0 +1,33 @@
+{
+  "name": "instagram-dm-mcp",
+  "version": "1.3.5",
+  "description": "Instagram Direct Messages MCP server for Claude Desktop",
+  "main": "index.js",
+  "bin": {
+    "instagram-dm-mcp": "./cli.js",
+    "instagram-dm-mcp-setup": "./setup.js"
+  },
+  "scripts": {
+    "start": "node ./cli.js start",
+    "setup": "node ./setup.js"
+  },
+  "keywords": [
+    "instagram",
+    "dm",
+    "direct-messages",
+    "claude",
+    "mcp",
+    "anthropic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "inquirer": "^8.2.5",
+    "cross-spawn": "^7.0.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
