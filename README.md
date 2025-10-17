@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/549/instagram-direct-messages)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/549/instagram-direct-messages)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/549/instagram-direct-messages)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/549/instagram-direct-messages)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/549/instagram-direct-messages)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/549/instagram-direct-messages)
+
 # Instagram DM MCP Server
 
 An MCP (Model-Consumer Protocol) server for Instagram direct messaging functionality, built with `fastmcp` and `instagrapi`. This server enables AI assistants to read and send Instagram direct messages.
